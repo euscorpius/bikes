@@ -1,0 +1,22 @@
+{
+  "name": "bikes-frontend",
+  "version": "0.0.1",
+  "description": "Frontend for bikes",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "dependencies": {
+    "i18next": "13.0.1",
+    "react": "16.7.0",
+    "react-dom": "16.7.0",
+    "react-i18next": "9.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-loader": "7.1.5",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "webpack": "2.7.0"
+  }
+}
